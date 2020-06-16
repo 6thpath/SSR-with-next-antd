@@ -564,7 +564,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Banner0.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Banner0.js";
 
 
 
@@ -709,7 +709,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Content0.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Content0.js";
 
 
 
@@ -861,7 +861,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_sublime_video__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react_sublime_video__WEBPACK_IMPORTED_MODULE_5__);
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Content4.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Content4.js";
 
 
 
@@ -1014,7 +1014,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Content5.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Content5.js";
 
 
 
@@ -1197,7 +1197,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Content6.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Content6.js";
 
 
 
@@ -1426,7 +1426,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Content7.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Content7.js";
 
 
 
@@ -1667,7 +1667,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Footer1.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Footer1.js";
 
 
 
@@ -1838,7 +1838,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Nav0.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Nav0.js";
 
 
 var Item = antd_lib_menu__WEBPACK_IMPORTED_MODULE_9___default.a.Item;
@@ -2038,7 +2038,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Footer10DataSource", function() { return Footer10DataSource; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/data.source.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/data.source.js";
 
 var Nav00DataSource = {
   wrapper: {
@@ -3134,7 +3134,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/index.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/index.js";
 
 /* eslint no-undef: 0 */
 
@@ -3353,7 +3353,7 @@ function (_React$Component) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/phat/tp/innos-homepage/pages/index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! /Users/paths/projects/SSR-with-next-antd/pages/index.js */"./pages/index.js");
 
 
 /***/ }),

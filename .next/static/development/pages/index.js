@@ -15012,10 +15012,10 @@ a:!(!b.characterData&&!b.characterDataOldValue)},d=this.i,f=0;f<d.length;f++)d[f
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fphat%2Ftp%2Finnos-homepage%2Fpages%2Findex.js!./":
-/*!********************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fphat%2Ftp%2Finnos-homepage%2Fpages%2Findex.js ***!
-  \********************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fpaths%2Fprojects%2FSSR-with-next-antd%2Fpages%2Findex.js!./":
+/*!********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fpaths%2Fprojects%2FSSR-with-next-antd%2Fpages%2Findex.js ***!
+  \********************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -35310,7 +35310,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Banner0.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Banner0.js";
 
 
 
@@ -35454,7 +35454,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Content0.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Content0.js";
 
 
 
@@ -35605,7 +35605,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_sublime_video__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react_sublime_video__WEBPACK_IMPORTED_MODULE_5__);
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Content4.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Content4.js";
 
 
 
@@ -35757,7 +35757,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Content5.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Content5.js";
 
 
 
@@ -35938,7 +35938,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Content6.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Content6.js";
 
 
 
@@ -36166,7 +36166,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Content7.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Content7.js";
 
 
 
@@ -36405,7 +36405,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Footer1.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Footer1.js";
 
 
 
@@ -36575,7 +36575,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/Nav0.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/Nav0.js";
 
 
 var Item = antd_lib_menu__WEBPACK_IMPORTED_MODULE_9___default.a.Item;
@@ -36775,7 +36775,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Footer10DataSource", function() { return Footer10DataSource; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/Home/data.source.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/Home/data.source.js";
 
 var Nav00DataSource = {
   wrapper: {
@@ -37860,7 +37860,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/phat/tp/innos-homepage/pages/index.js";
+var _jsxFileName = "/Users/paths/projects/SSR-with-next-antd/pages/index.js";
 
 /* eslint no-undef: 0 */
 
@@ -38073,13 +38073,13 @@ function (_React$Component) {
 /***/ }),
 
 /***/ 1:
-/*!************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fphat%2Ftp%2Finnos-homepage%2Fpages%2Findex.js ***!
-  \************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fpaths%2Fprojects%2FSSR-with-next-antd%2Fpages%2Findex.js ***!
+  \************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fphat%2Ftp%2Finnos-homepage%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fphat%2Ftp%2Finnos-homepage%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fpaths%2Fprojects%2FSSR-with-next-antd%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fpaths%2Fprojects%2FSSR-with-next-antd%2Fpages%2Findex.js!./");
 
 
 /***/ }),

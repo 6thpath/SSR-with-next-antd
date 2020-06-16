@@ -7911,7 +7911,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      source_map_support_1.rewriteStacktrace(error, "/home/phat/tp/innos-homepage/.next");
+      source_map_support_1.rewriteStacktrace(error, "/Users/paths/projects/SSR-with-next-antd/.next");
       return error;
     }
   };
@@ -19093,7 +19093,7 @@ module.exports = function(module) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/phat/tp/innos-homepage/node_modules/next/dist/client/next-dev */"./node_modules/next/dist/client/next-dev.js");
+module.exports = __webpack_require__(/*! /Users/paths/projects/SSR-with-next-antd/node_modules/next/dist/client/next-dev */"./node_modules/next/dist/client/next-dev.js");
 
 
 /***/ }),
